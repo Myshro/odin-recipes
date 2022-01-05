@@ -1,2 +1,2 @@
 # odin-recipes
-Some recipes... a very descriptive description I know.
+A little HTML website to show some cool recipes. Should demonstrate basic HTML (lists, headings, anchors, etc)
